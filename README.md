@@ -49,3 +49,7 @@ The URL of the deployed application.
 The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
 
 ```
+
+### Notes
+
+the project it self seem very doable but the thing that proved most difficult has dealing the github and terminal issues. I had alot of hurdles to jump over dealing with security issues from cloning the files. Spending even more time into developing a better undestanding ogt the terminal and how its works is something that requires more time and attention.
