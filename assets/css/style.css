@@ -5,10 +5,12 @@
 }
 
 /* GENERAL SECTION */
+
+/* font-family hass been added to all unless specified */
 body {
     background-color: #d9dcd6;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
-}/* font-family hass been added to all unless specified */
+}
 
 a {
     color: #ffffff;
@@ -23,6 +25,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 /* END GENERAL SECTION */
+
 
 /* HEADER SECTION */
 header {
@@ -60,6 +63,8 @@ header nav ul li {
 }
 /* END HEADER SECTION */
 
+
+/* HERO */
 #hero {
     height: 800px;
     width: 100%;
@@ -68,6 +73,8 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
+/* END HERO */
+
 
 /* CONTENT SECTION */
 .content {
@@ -111,7 +118,8 @@ i.online-content img {
 }
 
 
-/* condensed this code to .online
+/* condensed this code to .online and commented it out for refrence
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -168,6 +176,7 @@ i.online-content img {
 */
 /* END CONTENT SECTION */
 
+
 /* BENIFITS SECTION */
 .benefits {
     margin-right: 20px;
@@ -196,7 +205,8 @@ i.online-content img {
     max-width: 150px;
 }
 
-/* condensed these to benifit-display
+/* condensed these to benifit-display  and commented it out for refrence
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -246,6 +256,7 @@ i.online-content img {
 }
 */
 /* END BENIFITS SECTION */
+
 
 /* FOOTER */
 footer {
